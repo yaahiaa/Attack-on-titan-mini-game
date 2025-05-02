@@ -61,12 +61,21 @@ src/
 ---
 
 ## 📸 Screenshots
+
+### 🎬 Watch the Demo
 [![Watch the demo](screenshots/1.png)](https://drive.google.com/file/d/1avpSXrzE8tp1GoD-iDM-Ct_-68flepOp/view?usp=drive_link)
+
+### 🖼️ Main Menu
 ![Main Menu](screenshots/1.png)
+
+### 🕹️ Easy Mode Gameplay
 ![Easymode Gameplay](screenshots/2.png)
 ![Easymode Gameplay](screenshots/3.png)
+
+### 💀 Hard Mode Gameplay
 ![Hardmode Gameplay](screenshots/4.png)
 ![Hardmode Gameplay](screenshots/5.png)
+
 
 ---
 
