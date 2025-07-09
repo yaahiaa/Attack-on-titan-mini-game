@@ -80,10 +80,7 @@ src/
 ---
 
 ## 🧑‍💻 Team
-Developed by Team 148 – German University in Cairo (Spring 2024):
-Yahia Hesham
-Hania Samer
-Malak Saleh
+Developed by Team 148 – German University in Cairo (Spring 2024)
 
 ---
 
